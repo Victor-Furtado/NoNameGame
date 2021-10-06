@@ -24,7 +24,7 @@ const Game = styled.div`
 `
 
 const Grid = styled.div`
-    flex: 5;
+    flex: 3;
     background-color: seagreen;
 `
 
